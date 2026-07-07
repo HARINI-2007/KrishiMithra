@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">KrishiMithra</string>
+    <string name="title_activity_main">KrishiMithra</string>
+    <string name="package_name">com.krishimithra.app</string>
+    <string name="custom_url_scheme">com.krishimithra.app</string>
+</resources>
